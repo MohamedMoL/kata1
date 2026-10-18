@@ -12,4 +12,5 @@ public record Person(String name, LocalDate birthday) {
     private int toYears(long days) {
         return (int) (days / DAYS_PER_YEAR);
     }
+
 }
