@@ -1,7 +1,10 @@
 package software.ulpgc.katas;
 
+import java.time.LocalDate;
+
 public class Main {
     static void main() {
-        System.out.println("Hello World");
+        Person person = new Person("Marcos", LocalDate.of(2000, 8, 1));
+        System.out.println(person);
     }
 }
