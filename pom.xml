@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>software.ulpgc</groupId>
-    <artifactId>kata001</artifactId>
+    <artifactId>kata1</artifactId>
     <version>1.0</version>
 
     <properties>
